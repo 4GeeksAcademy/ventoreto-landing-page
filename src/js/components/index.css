@@ -1,0 +1,13 @@
+.card-img{
+    width: 500px;
+    height: 325px;
+    object-fit: cover;
+}
+.card-contenedor{
+     /* width: 500px;
+     height: auto;*/
+     padding-top: 20px;
+    
+
+
+}

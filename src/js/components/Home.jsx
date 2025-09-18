@@ -15,7 +15,7 @@ export function Home(){
             <JumboTron/>
             <div className ="d-flex container gap-3 pt-3 px-0">
                 <Card 
-                    image="../image/Cascada01.jpg" 
+                    image="https://picsum.photos/id/103/600/400" 
                     description={p} 
                     label="Rio Momtañoso"
                     title="Paisaje de Valle"
@@ -27,16 +27,16 @@ export function Home(){
                     title ="Paisaje de Pino"
                 />
                 <Card 
-                    image="https://www.wideopenspaces.com/wp-content/uploads/sites/3/2025/08/Guests-Potentially-Exposed-To-Deadly-Virus-While-Staying-At-Grand-Teton-National-Park.jpg?w=1056"
+                    image="https://picsum.photos/id/113/600/400"
                     description={p}
                     label = "Aguas Tranquilas"
                     title = "Paisaje Hermoso"
                 /> 
                 <Card 
-                    image="../image/Rio01.jpg"
+                    image="https://picsum.photos/id/106/600/400"
                     description ={p}
-                    label ="Piedras Preciosa"
-                    title ="Paisaje de Piedras"
+                    label ="Flores Hermosas"
+                    title ="Paisaje de flores"
                 />  
             </div>
             <Footer/>
